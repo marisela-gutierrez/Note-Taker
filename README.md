@@ -12,3 +12,4 @@ This application can be used to write and save notes.
 ## Deployed application: https://notetaker-mg.herokuapp.com/
 
 [![notetaker.png](https://i.postimg.cc/fL27XrQ3/notetaker.png)](https://postimg.cc/34GDQ9R7)
+[![notetaker-mg.png](https://i.postimg.cc/pXq9dFxT/notetaker-mg.png)](https://postimg.cc/MvfZPXn2)
